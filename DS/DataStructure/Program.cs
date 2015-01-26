@@ -13,6 +13,7 @@ namespace DataStructure
             Console.WriteLine("Hi");
             Console.WriteLine("Using GitHub");
             Console.WriteLine("GitHub rocks!!!");
+            Console.Write("Hi");
         }
     }
 }
